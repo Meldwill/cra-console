@@ -17,6 +17,8 @@ function App() {
         </a>
       </div>
       <h1>Vite + React</h1>
+    <p>adada</p>
+        <h2>Vite + React</h2>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
@@ -25,7 +27,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
       </div>
-      <p className="read-the-docs">
+      <p className="read-the-docshj">
         Click on the Vite and React logos to learn more
       </p>
     </>
