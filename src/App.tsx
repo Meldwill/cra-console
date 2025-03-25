@@ -28,9 +28,9 @@ function App() {
         </p>
         <p>2у11212</p>
       </div>
-      <p className="read-the-docshj">
-        Click on the Vite anddaadaadsdsaads Reasasasasasasct logos to lads arn more
-      </p>
+    <div> <p className="read-the-docshj">
+      Click on the Vite anddaadaadsdsaads Reasasasasasasct logos to lads arn more
+    </p> </div>
     </>
   )
 }
